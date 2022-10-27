@@ -1,0 +1,1 @@
+import{_ as e}from"./FormMontre.vue_vue_type_script_setup_true_lang.2d97c6ad.js";import{d as a,o,c as s,a as t,b as r}from"./index.d370108c.js";import"./MontreProfil.vue_vue_type_script_setup_true_lang.ca6b1966.js";const c={class:"dark:bg-black"},d=a({__name:"personaliser",setup(n){return(_,m)=>(o(),s("main",c,[t("section",null,[r(e)])]))}});export{d as default};
